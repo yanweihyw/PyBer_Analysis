@@ -24,7 +24,3 @@ I also suggest to extend the time period of the fares analysis so that we see ho
 Ways to realize additonal two analysises:
 For the fares per mileage analysis, we would need to get mileage information for each ride. Then the fares would be divided by mileage to get fares per mileage for each ride. And then we can get the mean, medium and mode for fares per mileage for each city type and use plot chart to see the level of fares per mileage. For the seasoning analysis, we can extend the period from Jan to April 2019 to Jan to Dec 2019 and use plot chart to see if seasons would affect fares level.
 Images: Images are saved under PyBer_Analysis/analysis folder with name of Summary DataFrame and Total Fare by City Type
-
-
-
-
